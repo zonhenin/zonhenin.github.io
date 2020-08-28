@@ -1,0 +1,121 @@
+body {
+	background-color: #666666;
+	font-size: 28px;
+}
+
+#toast-container {
+	font-size: 16px;
+}
+
+.zhrr-text {
+	margin: 0 auto;
+	max-width: 960px;
+	background-color: white;
+	padding-left: 24px;
+	padding-right: 24px;
+	text-align: left;
+	padding-bottom: 8px;
+}
+
+.zhrr-title {
+	font-size: 250%;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 16px;
+	padding-bottom: 32px;
+	margin-left: -24px;
+	margin-right: -24px;
+}
+
+.zhrr-tools {
+	font-size: 90%;
+    list-style: none;
+    float: left;
+    width: 100%;
+}
+
+section.footnotes {
+	font-size: 75%;
+}
+
+h1.footnotes {
+	display: none;
+}
+
+h1 {
+	text-align: center;
+	font-size: 150%;
+	margin-top: 24px;
+}
+
+.zhrr-direct {
+	color: #0000FF;
+}
+
+.zhrr-letter {
+	background-color: #FFFF00;
+	margin-left: -16px;
+	margin-right: -16px;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 2px;
+	padding-bottom: 4px;
+}
+
+a.footnote-ref {
+	text-decoration: none;
+}
+
+.zhrr-tools {
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+    float: left;
+    width: 100%;
+}
+.zhrr-tools li {
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+.zhrr-tools a {
+    display: block;
+    padding: 5px;
+    color: #fff;
+    background-color: #333;
+    text-decoration: none;
+}
+.zhrr-tools a:hover {
+    color: #fff;
+    background-color: #0000FF;
+    text-decoration: underline;
+}
+
+.zhrr-tools ul {
+    background-color: #fff;
+    background: rgba(255,255,255,0);
+    list-style: none;
+    position: absolute;
+    left: -9999px;
+}
+.zhrr-tools ul li {
+    padding-top: 1px;
+    float: none;
+}
+.zhrr-tools ul a {
+    white-space: nowrap;
+}
+.zhrr-tools li:hover ul {
+    left: -40px;
+}
+.zhrr-tools li:hover a {
+    background-color: #0000FF;
+    text-decoration: underline;
+}
+.zhrr-tools li:hover ul a {
+    text-decoration: none;
+}
+.zhrr-tools li:hover ul li a:hover {
+    background-color: #333;
+}

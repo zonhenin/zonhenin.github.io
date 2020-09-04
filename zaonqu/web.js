@@ -16,7 +16,7 @@ function nav() {
 	}, {
 		'title': '曾柔',
 		'file': '曾柔.flac',
-		'html': '<p>儿时《鹿鼎记》片段，我改编并电子琴演奏。</p><p>另有<a target=”_blank” href="https://www.bilibili.com/video/BV1qz4y1f7r9/">视频在此</a></p>',
+		'html': '<p>儿时《鹿鼎记》片段，我改编并电子琴演奏。</p><p>另有视频在此：<a target=”_blank” href="https://www.bilibili.com/video/BV1qz4y1f7r9/">www.bilibili.com</a></p>',
 	}, {
 		'title': '无伴奏三声部合唱',
 		'file': '合唱.flac',

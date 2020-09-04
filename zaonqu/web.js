@@ -20,10 +20,11 @@ function nav() {
 	}, {
 		'title': '无伴奏三声部合唱',
 		'file': '合唱.flac',
-		'html': '最好用外置扬声器',
+		'html': '最好用外置立体声扬声器',
 	}, {
 		'title': '流行歌曲',
 		'file': '唱歌.flac',
+		'html': '注：伴奏不是我演奏的',
 	}, {
 		'title': '上课铃',
 		'file': '上课B.flac',

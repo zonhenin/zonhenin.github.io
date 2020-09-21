@@ -3,6 +3,10 @@ body {
 	font-size: 54px;
 }
 
+input {
+	font-size: 48px;
+}
+
 #toast-container {
 	font-size: 42px;
 }
@@ -10,6 +14,9 @@ body {
 @media only screen and (min-device-width: 400px) {
 	body {
 		font-size: 36px;
+	}
+	input {
+		font-size: 32px;
 	}
 	#toast-container {
 		font-size: 24px;
@@ -19,6 +26,9 @@ body {
 @media only screen and (min-device-width: 1025px) {
 	body {
 		font-size: 28px;
+	}
+	input {
+		font-size: 24px;
 	}
 	#toast-container {
 		font-size: 16px;
@@ -32,7 +42,7 @@ body {
 	padding-left: 24px;
 	padding-right: 24px;
 	text-align: left;
-	padding-bottom: 8px;
+	padding-bottom: 1.1em;
 }
 
 .zhrr-title {
@@ -44,6 +54,13 @@ body {
 	padding-bottom: 32px;
 	margin-left: -24px;
 	margin-right: -24px;
+}
+
+audio {
+	width: 100%;
+	position: -webkit-sticky;
+	position: sticky;
+	bottom: 1em;
 }
 
 .zhrr-tools {

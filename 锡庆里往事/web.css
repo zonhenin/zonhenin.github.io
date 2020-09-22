@@ -70,14 +70,6 @@ audio {
     width: 100%;
 }
 
-section.footnotes {
-	font-size: 75%;
-}
-
-h1.footnotes {
-	display: none;
-}
-
 h1 {
 	text-align: center;
 	font-size: 150%;

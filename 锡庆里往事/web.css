@@ -42,7 +42,7 @@ input {
 	padding-left: 24px;
 	padding-right: 24px;
 	text-align: left;
-	padding-bottom: 1.1em;
+	padding-bottom: 0.5em;
 }
 
 .zhrr-title {
@@ -59,12 +59,12 @@ input {
 #footer {
 	margin-left: -24px;
 	margin-right: -24px;
-	margin-top: 1em;
+	margin-top: 2em;
 }
 
 #busuanzi_container_site_pv {
-	font-size: 80%;
-	color: #555555;
+	font-size: 70%;
+	color: #999;
 }
 
 audio {

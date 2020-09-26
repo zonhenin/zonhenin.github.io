@@ -56,6 +56,17 @@ input {
 	margin-right: -24px;
 }
 
+#footer {
+	margin-left: -24px;
+	margin-right: -24px;
+	margin-top: 1em;
+}
+
+#busuanzi_container_site_pv {
+	font-size: 80%;
+	color: #555555;
+}
+
 audio {
 	width: 100%;
 	position: -webkit-sticky;

@@ -1,0 +1,44 @@
+body {
+	background-color: #666666;
+}
+
+.zhrr-text {
+	margin: 0 auto;
+	max-width: 960px;
+	background-color: white;
+	padding-left: 24px;
+	padding-right: 24px;
+	text-align: left;
+	padding-top: 36px;
+	padding-bottom: 48px;
+	overflow: auto;
+	min-height: 88vh;
+}
+
+.zhrr-item {
+	width: 100%;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.zhrr-item img {
+	width: 100%;
+}
+
+@media only screen and (min-device-width: 400px) {
+	.zhrr-item {
+		float: left;
+		width: 50%;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+
+@media only screen and (min-device-width: 1025px) {
+	.zhrr-item {
+		float: left;
+		width: 25%;
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+}

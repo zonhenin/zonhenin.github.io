@@ -1,5 +1,11 @@
+@font-face {
+  font-family: noto;
+  src: url(noto.otf);
+}
+
 body {
 	background-color: #666666;
+	font-family: noto;
 	font-size: 54px;
 }
 
@@ -152,12 +158,4 @@ h1 {
 }
 .zhrr-tools li:hover ul li a:hover {
     background-color: #333;
-}
-
-#test span {
-	visibility: hidden;
-}
-
-#test-hard {
-	font-familty: BabelStone Han
 }

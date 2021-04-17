@@ -1,6 +1,6 @@
 @font-face {
   font-family: noto;
-  src: url(noto.otf);
+  src: url(../fonts/noto.otf);
 }
 
 body {
